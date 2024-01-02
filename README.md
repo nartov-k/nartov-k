@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nartov-k
-- 👀 I’m a data scienence student @Univrsity of Michigan
+- 👀 I’m a data science student @University of Michigan
 - 📫 You can reach me through my email k.nartov35@gmail.com
 
 <!---
