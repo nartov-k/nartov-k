@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nartov-k
-- 👀 I’m a data science student @University of Michigan
-- 📫 You can reach me through my email k.nartov35@gmail.com
+- Hi, Kirill here
+- I’m a statistics researcher @University of Michigan
+- You can reach me through my email nartovk@umich.edu
 
 <!---
 nartov-k/nartov-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
